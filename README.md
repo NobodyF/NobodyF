@@ -1,6 +1,6 @@
 # Hello, I'm [Nikita]
 
-Sometimes i do things, sometimes i don't.
+Sometimes I do useful things... Other times I don't.
 
 ## Projects
 
