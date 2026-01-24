@@ -15,5 +15,5 @@ Sometimes I do useful things... Other times I don't.
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/nikita-jakimovs-9b8964278/)
-- [Personal Website]([your_website](https://www.linkedin.com/in/nikita-jakimovs-9b8964278/))
+- [Personal Website](https://nobodyf.github.io/Angular-Portfolio/about)
 
