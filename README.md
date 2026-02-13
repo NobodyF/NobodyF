@@ -11,13 +11,13 @@ Sometimes I do useful things... Other times I don't.
 
 ---
 
-### 🧠 What I do
-- 🤖 Train & experiment with **YOLO / computer vision** pipelines  
-- 🌿 Build **Web3 apps** (Ethereum + UI) and ship end-to-end features  
+### What I do
+- Train & experiment with **YOLO / computer vision** pipelines  
+- Build **Web3 apps** (Ethereum + UI) and ship end-to-end features  
 
 ---
 
-### 🧰 Tech I use
+### Tech I use
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
@@ -30,7 +30,7 @@ Sometimes I do useful things... Other times I don't.
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 > A few things I’m actively proud of / iterating on:
 
 - **AI-TRAIN** — YOLO training notes, experiments, and helpful tooling  
@@ -50,12 +50,12 @@ Sometimes I do useful things... Other times I don't.
 
 ---
 
-### 📊 GitHub stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NobodyF&show_icons=true&rank_icon=github&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobodyF&layout=compact&hide_title=true" />
+### GitHub
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=NobodyF&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;theme=github_dark" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobodyF&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=github_dark" />
 </p>
 
-<p align="left">
-  <img height="180" src="https://streak-stats.demolab.com?user=NobodyF" />
-</p>
+
