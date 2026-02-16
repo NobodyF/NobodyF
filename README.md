@@ -31,7 +31,7 @@ Sometimes I do useful things... Other times I don't.
 ---
 
 ### Featured projects
-> A few things I’m actively proud of / iterating on:
+> A few things that I made:
 
 - **AI-TRAIN** — YOLO training notes, experiments, and helpful tooling  
   → https://github.com/NobodyF/AI-TRAIN
