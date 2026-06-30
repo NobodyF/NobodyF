@@ -50,10 +50,3 @@ Sometimes I do useful things... Other times I don't.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NobodyF&bg_color=0d1117&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true"/>
 </p>
-
-### Cat
-
-<!-- Drop your cat GIF into an /assets folder in this repo and update the path below -->
-<p align="center">
-  <img src="assets/cat.gif" width="200"/>
-</p>
