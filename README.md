@@ -2,7 +2,6 @@
 <p align="center">
 Sometimes I do useful things... Other times I don't.
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/nikita-jakimovs-9b8964278/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
   •
@@ -18,44 +17,43 @@ Sometimes I do useful things... Other times I don't.
 ---
 
 ### Tech I use
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,ts,angular,solidity,kotlin,arduino&theme=dark" />
+</p>
 
 ---
 
 ### Featured projects
 > A few things that I made:
-
 - **AI-TRAIN** — YOLO training notes, experiments, and helpful tooling  
   → https://github.com/NobodyF/AI-TRAIN
-
 - **WEB3-PlantHyb** — Web3 project with a Python component  
   → https://github.com/NobodyF/WEB3-PlantHyb
-
 - **AllergenScanner** — Kotlin/Android project  
   → https://github.com/NobodyF/AllergenScanner
-
 - **Angular-Portfolio** — Personal portfolio site  
   → https://github.com/NobodyF/Angular-Portfolio
-
 - **Arduino_IDE** — Arduino prototypes & experiments  
   → https://github.com/NobodyF/Arduino_IDE
 
 ---
 
 ### GitHub
+
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=NobodyF&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;theme=github_dark" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobodyF&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NobodyF&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=79c0ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
 </p>
 
+### Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NobodyF&bg_color=0d1117&color=79c0ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true"/>
+</p>
+
+### Cat
+
+<!-- Drop your cat GIF into an /assets folder in this repo and update the path below -->
+<p align="center">
+  <img src="assets/cat.gif" width="200"/>
+</p>
